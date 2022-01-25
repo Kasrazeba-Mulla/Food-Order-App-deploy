@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Foode-Order-App-deploy/static/css/main.02519cb5.chunk.css",
+    "main.js": "/Foode-Order-App-deploy/static/js/main.dd91a09f.chunk.js",
+    "main.js.map": "/Foode-Order-App-deploy/static/js/main.dd91a09f.chunk.js.map",
+    "runtime-main.js": "/Foode-Order-App-deploy/static/js/runtime-main.3e13583c.js",
+    "runtime-main.js.map": "/Foode-Order-App-deploy/static/js/runtime-main.3e13583c.js.map",
+    "static/js/2.366b73ce.chunk.js": "/Foode-Order-App-deploy/static/js/2.366b73ce.chunk.js",
+    "static/js/2.366b73ce.chunk.js.map": "/Foode-Order-App-deploy/static/js/2.366b73ce.chunk.js.map",
+    "index.html": "/Foode-Order-App-deploy/index.html",
+    "static/css/main.02519cb5.chunk.css.map": "/Foode-Order-App-deploy/static/css/main.02519cb5.chunk.css.map",
+    "static/js/2.366b73ce.chunk.js.LICENSE.txt": "/Foode-Order-App-deploy/static/js/2.366b73ce.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/Foode-Order-App-deploy/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e13583c.js",
+    "static/js/2.366b73ce.chunk.js",
+    "static/css/main.02519cb5.chunk.css",
+    "static/js/main.dd91a09f.chunk.js"
+  ]
+}
